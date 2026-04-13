@@ -1,0 +1,25 @@
+link_id,from_doc_id,to_doc_id,relation_type,evidence,confidence,notes
+us-01__news__1,us-01__news__news_1,us-01__official__anchor,reports_on,official_news_release_on_same_guidance,0.95,Official NewsNet release tied directly to the same registration guidance initiative.
+us-01__news__2,us-01__news__news_2,us-01__official__anchor,reports_on,workflow_explainer_on_same_guidance,0.90,Official explainer for the same guidance and registration workflow.
+us-01__news__3,us-01__news__news_3,us-01__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+us-02__news__1,us-02__news__news_1,us-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+us-02__news__2,us-02__news__news_2,us-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+us-02__news__3,us-02__news__news_3,us-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+us-02__social__1,us-02__social__social_1,us-02__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+us-02__social__2,us-02__social__social_2,us-02__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+us-03__news__1,us-03__news__news_1,us-03__official__anchor,reports_on,official_news_release_on_same_report,0.98,Official NewsNet release announcing the same Part 2 report.
+us-03__news__2,us-03__news__news_2,us-03__official__anchor,reports_on,general_news_on_same_report,0.85,General news coverage summarizing the same Copyright Office report.
+us-03__news__3,us-03__news__news_3,us-03__official__anchor,reports_on,tech_policy_coverage_of_same_report,0.85,Tech-policy coverage restating the same report's negative boundary case.
+us-03__social__1,us-03__social__social_1,us-03__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+us-03__social__2,us-03__social__social_2,us-03__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+us-03__social__3,us-03__social__social_3,us-03__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+cn-02__news__1,cn-02__news__news_1,cn-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+cn-02__news__2,cn-02__news__news_2,cn-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+cn-02__news__3,cn-02__news__news_3,cn-02__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+cn-02__social__1,cn-02__social__social_1,cn-02__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+cn-04__news__1,cn-04__news__news_1,cn-04__official__anchor,reports_on,state_media_explainer_on_same_measures,0.92,State-media explanation directly summarizing the same labeling measures.
+cn-04__news__2,cn-04__news__news_2,cn-04__official__anchor,reports_on,state_media_rollout_notice_on_same_measures,0.90,State-media rollout notice tied directly to the same four-agency labeling measures.
+cn-04__news__3,cn-04__news__news_3,cn-04__official__anchor,reports_on,packet_membership,0.30,Link inferred from shared packet membership.
+cn-04__social__1,cn-04__social__social_1,cn-04__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+cn-04__social__2,cn-04__social__social_2,cn-04__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
+cn-04__social__3,cn-04__social__social_3,cn-04__official__anchor,reposts_or_discusses,packet_membership,0.20,Packet-level link; individual verification pending.
